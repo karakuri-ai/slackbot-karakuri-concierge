@@ -1,0 +1,22 @@
+{
+  "name": "aqueous-inlet-17137",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "@slack/bolt": "^2.1.1",
+    "googleapis": "^52.1.0",
+    "moment": "^2.27.0",
+    "node-cron": "^2.0.3",
+    "stjs": "^0.0.5"
+  },
+  "devDependencies": {
+    "@types/node-cron": "^2.0.3",
+    "axios": "^0.19.2",
+    "typescript": "^3.9.5"
+  }
+}

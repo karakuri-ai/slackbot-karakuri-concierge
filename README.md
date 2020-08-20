@@ -1,1 +1,5 @@
-slackbot-karakuri-concierge
+## slackbot-karakuri-concierge
+
+1. チャンネルに追加時にユーザに自己紹介をしてもらう
+2. 誕生日当日にチャンネルに祝福メッセージを投稿する
+3. 誕生日 N 日前に同一部署のユーザにメッセージを送る
